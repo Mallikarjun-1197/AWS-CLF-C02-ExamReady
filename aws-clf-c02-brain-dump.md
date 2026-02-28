@@ -4,8 +4,7 @@ From scribbles to secrets — distilled notes, polished and battle‑ready.
 
 ---
 
-## Part 1: 🔐 Numbered Service Index (1–17)
-
+## Part 1:
 1. **AWS Inspector** → Automatically scans applications for vulnerabilities and network gaps. Suggests security best practices for EC2 and containers.  
 2. **AWS GuardDuty** → Continuous threat detection, monitors malicious activity and unauthorized access.  
 3. **Amazon Macie** → ML‑powered data security & privacy service for sensitive data (PII) in S3.  
